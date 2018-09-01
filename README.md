@@ -4,8 +4,8 @@
 List of links of the multiple areas from developer career (by [@dii_lua](https://twitter.com/dii_lua))
 
 # Agile
-https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto …
-https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software …
+* [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto)
+* [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software)
 
 # Python
 * [Python para zumbis](https://www.pycursos.com/python-para-zumbis/)
