@@ -1,7 +1,11 @@
 # THREAD NO TWITTER https://twitter.com/dii_lua/status/1035662190748073986
 
-# Agile
+# About
 List of links of the multiple areas from developer career (by [@dii_lua](https://twitter.com/dii_lua))
+
+# Agile
+https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto …
+https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software …
 
 # Python
 * [Python para zumbis](https://www.pycursos.com/python-para-zumbis/)
