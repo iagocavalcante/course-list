@@ -20,7 +20,7 @@ List of links of the multiple areas from developer career (by @dii_lua)
 * [Introdução à Estatística Inferencial](https://br.udacity.com/course/intro-to-inferential-statistics--ud201)
 * [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
 * [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
-* [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science
+* [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 
 # MachineLearning
 * [Machine Learning Fundamentals](https://www.codecademy.com/pro/intensive/machine-learning-fundamentals)
