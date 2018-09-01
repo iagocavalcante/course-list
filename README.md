@@ -55,3 +55,68 @@ NDG Linux Essentials](https://www.netacad.com/campaign/linux-essentials3)
 * [Code IoT](http://codeiot.org.br/courses)
 * [Cursos Instito Tim](https://cursos.timtec.com.br/courses)
 * [Fundação Bradesco](https://www.ev.org.br/Cursos)
+
+# JavaScript
+[HTML/JS: tornando páginas web interativas com jQuery](https://pt.khanacademy.org/computing/computer-programming/html-js-jquery)
+[Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming)
+[JavaScript para iniciantes: o que é, origens, para que serve e “Hello World”](https://becode.com.br/javascript-para-iniciantes.../amp/)
+[O que é JavaScript?](http://tableless.github.io/iniciantes/manual/js/)
+[Fundamentos de JavaScript](https://br.udacity.com/course/intro-to-javascript--ud803)
+
+# CSS
+[Introdução a HTML/CSS: criação de páginas Web](https://pt.khanacademy.org/computing/computer-programming/html-css)
+
+# Sass
+[Learn Sass](https://www.codecademy.com/learn/learn-sass)
+
+# HTML
+[ntroduction to HTML](https://www.codecademy.com/learn/learn-html)
+[CURSO DE HTML BÁSICO](https://www.devmedia.com.br/curso/curso-de-html-basico/371)
+[Curso completo de HTML 5](https://jornadadodev.com.br/cursos/curso-completo-de-html-5?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=curso-completo-de-html-5)
+[HTML/JS: tornando páginas web interativas](https://pt.khanacademy.org/computing/computer-programming/html-css-js)
+[Curso de HTML5](https://www.cursoemvideo.com/course/curso-de-html5/)
+
+# BancodeDados
+[Introdução a SQL: Consulta e gerenciamento de dados
+](https://pt.khanacademy.org/computing/computer-programming/sql)
+[Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+[Modelagem de Dados](https://www.ev.org.br/curso/informatica/banco-de-dados/modelagem-de-dados?return=/cursos/informatica/banco-de-dados)
+
+# IA
+[Introduction to Artificial Intelligence (AI)](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+
+# R
+[Introduction to Network Analysis with R](https://www.jessesadler.com/post/network-analysis-with-r/)
+[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+[Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+[Data Visualization in R with ggvis](https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial)
+[Data Analysis in R, the data.table Way](https://www.datacamp.com/courses/data-table-data-manipulation-r-tutorial)
+[Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown)
+[Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+[Intermediate R - Practice](https://www.datacamp.com/courses/intermediate-r-practice)
+
+# Git e GitHub 
+https://www.schoolofnet.com/curso-git-e-github/
+https://www.udemy.com/git-e-github-para-iniciantes/
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
+https://try.github.io/
+https://tableless.com.br/iniciando-no-git-parte-1/
+https://tableless.com.br/iniciando-no-git-parte-2/
+
+# Logica de Programacao
+https://www.schoolofnet.com/curso-logica-de-programacao/ …
+http://www.cursoemvideo.com/course/curso-de-algoritmos/ …
+https://cursos.timtec.com.br/.../logicadeprogramacao/intro …
+http://www.cbsi.net.br/2017/08/curso-100-online-e-gratuito-de-logica-de-programacao-do-SENAI.html …
+http://www.ic.unicamp.br/~mc102/ 
+
+# Algoritmos
+https://youtu.be/DftxnGvyZLA
+
+# Ingles
+http://www.sedacollegeonline.com 
+https://www.kultivi.com/ 
+
+# Deep Learning 
+https://www.youtube.com/watch?v=tFoCI8EYqQY&list=PLxWEfWCujM7Y3Xf1bAxpICRlw2jt1a4S7
+https://t.co/QnS9cPeNLt
