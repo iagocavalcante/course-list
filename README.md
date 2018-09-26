@@ -3,9 +3,48 @@
 # About
 List of links of the multiple areas from developer career (by [@dii_lua](https://twitter.com/dii_lua))
 
-# Agile
-* [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto)
-* [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software)
+# Plataforma de estudo gratuitas
+* [Curso em vídeo](https://www.cursoemvideo.com/)
+* [Cursos Instito Tim](https://cursos.timtec.com.br/courses)
+* [Fundação Bradesco](https://www.ev.org.br/Cursos)
+* [Code IoT](http://codeiot.org.br/courses)
+* [Codecademy](https://www.codecademy.com/)
+* [Code.org](https://code.org/)
+
+# Plataforma de estudo pagas
+* [Alura](https://www.alura.com.br/)
+* [School of Net](https://www.schoolofnet.com/)
+* [DevMedia](https://www.devmedia.com.br/)
+* [TreinaWeb](https://www.treinaweb.com.br/)
+
+# Logica de Programacao
+* [Lógica de Programação](https://www.schoolofnet.com/curso-logica-de-programacao/)
+* [Curso de Algoritmo](http://www.cursoemvideo.com/course/curso-de-algoritmos/)
+* [Curso 100% online e gratuito de Lógica de Programação do SENAI.](http://www.cbsi.net.br/2017/08/curso-100-online-e-gratuito-de-logica-de-programacao-do-SENAI.html)
+* [MC102 - Algoritmos e Programação de Computadores](http://www.ic.unicamp.br/~mc102/)
+
+# Algoritmos
+* [Mini-curso de Algoritmos - Aula 1](https://youtu.be/DftxnGvyZLA)
+
+# HTML
+* [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
+* [CURSO DE HTML BÁSICO](https://www.devmedia.com.br/curso/curso-de-html-basico/371)
+* [Curso completo de HTML 5](https://jornadadodev.com.br/cursos/curso-completo-de-html-5?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=curso-completo-de-html-5)
+* [HTML/JS: tornando páginas web interativas](https://pt.khanacademy.org/computing/computer-programming/html-css-js)
+* [Curso de HTML5](https://www.cursoemvideo.com/course/curso-de-html5/)
+
+# CSS
+* [Introdução a HTML/CSS: criação de páginas Web](https://pt.khanacademy.org/computing/computer-programming/html-css)
+
+# JavaScript
+* [HTML/JS: tornando páginas web interativas com jQuery](https://pt.khanacademy.org/computing/computer-programming/html-js-jquery)
+* [Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming)
+* [JavaScript para iniciantes: o que é, origens, para que serve e “Hello World”](https://becode.com.br/javascript-para-iniciantes.../amp/)
+* [O que é JavaScript?](http://tableless.github.io/iniciantes/manual/js/)
+* [Fundamentos de JavaScript](https://br.udacity.com/course/intro-to-javascript--ud803)
+
+# Sass
+* [Learn Sass](https://www.codecademy.com/learn/learn-sass)
 
 # Python
 * [Python para zumbis](https://www.pycursos.com/python-para-zumbis/)
@@ -18,18 +57,8 @@ List of links of the multiple areas from developer career (by [@dii_lua](https:/
 * [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 * [Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
 
-# DataScience
-* [Programa de cursos integrados Data Science](https://www.coursera.org/specializations/jhu-data-science)
-* [Introdução à Estatística](https://br.udacity.com/course/intro-to-statistics--st101)
-* [Introdução à Estatística Inferencial](https://br.udacity.com/course/intro-to-inferential-statistics--ud201)
-* [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
-* [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
-* [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-
-# MachineLearning
-* [Machine Learning Fundamentals](https://www.codecademy.com/pro/intensive/machine-learning-fundamentals)
-* [Introduction to Machine Learning](https://www.datacamp.com/courses/introduction-to-machine-learning-with-r)
-* [Machine Learning Toolbox](https://www.datacamp.com/courses/machine-learning-toolbox)
+#PHP
+* [PHP do Jeito Certo](http://br.phptherightway.com/)
 
 # Java
 * [Introdução à programação em linguagem JAVA](https://cursos.timtec.com.br/course/programacaojava/intro)
@@ -37,6 +66,19 @@ List of links of the multiple areas from developer career (by [@dii_lua](https:/
 * [Curso de Java](https://www.cursoemvideo.com/course/curso-java-iniciante/)
 * [Curso de Linguagem Java Básico Online Grátis](https://www.primecursos.com.br/linguagem-java-basico/)
 * [Java Básico](https://loiane.training/course/java-basico/)
+
+# Banco de Dados
+* [Introdução a SQL: Consulta e gerenciamento de dados](https://pt.khanacademy.org/computing/computer-programming/sql)
+* [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+* [Modelagem de Dados](https://www.ev.org.br/curso/informatica/banco-de-dados/modelagem-de-dados?return=/cursos/informatica/banco-de-dados)
+
+# Git e GitHub 
+* [Curso Git e Github](https://www.schoolofnet.com/curso-git-e-github/)
+* [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
+* [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [Resources to learn Git](https://try.github.io/)
+* [Iniciando no Git - Parte 1](https://tableless.com.br/iniciando-no-git-parte-1/)
+* [Iniciando no Git - Parte 2](https://tableless.com.br/iniciando-no-git-parte-2/)
 
 # Linux
 * [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
@@ -52,42 +94,25 @@ NDG Linux Essentials](https://www.netacad.com/campaign/linux-essentials3)
 # Container
 * [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 
-# Diversos
-* [Trilha de estudos com cursos gratuitos para aprender programação do zero](https://medium.com/trainingcenter/trilha-de-estudos-com-cursos-gratuitos-para-aprender-programa%C3%A7%C3%A3o-do-zero-2758f3d0190)
-* [BrasilMaisTI - Lista de cursos](http://www.brasilmaisti.com.br/index.php/pt-br/cursos-online/dashboard-cursos/45-lingua-inglesa/preview)
-* [Curso em Vídeo](https://www.cursoemvideo.com/)
-* [Code IoT](http://codeiot.org.br/courses)
-* [Cursos Instito Tim](https://cursos.timtec.com.br/courses)
-* [Fundação Bradesco](https://www.ev.org.br/Cursos)
+# DataScience
+* [Programa de cursos integrados Data Science](https://www.coursera.org/specializations/jhu-data-science)
+* [Introdução à Estatística](https://br.udacity.com/course/intro-to-statistics--st101)
+* [Introdução à Estatística Inferencial](https://br.udacity.com/course/intro-to-inferential-statistics--ud201)
+* [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados)
+* [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+* [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 
-# JavaScript
-* [HTML/JS: tornando páginas web interativas com jQuery](https://pt.khanacademy.org/computing/computer-programming/html-js-jquery)
-* [Introdução a JavaScript: Desenho & Animação](https://pt.khanacademy.org/computing/computer-programming/programming)
-* [JavaScript para iniciantes: o que é, origens, para que serve e “Hello World”](https://becode.com.br/javascript-para-iniciantes.../amp/)
-* [O que é JavaScript?](http://tableless.github.io/iniciantes/manual/js/)
-* [Fundamentos de JavaScript](https://br.udacity.com/course/intro-to-javascript--ud803)
-
-# CSS
-* [Introdução a HTML/CSS: criação de páginas Web](https://pt.khanacademy.org/computing/computer-programming/html-css)
-
-# Sass
-* [Learn Sass](https://www.codecademy.com/learn/learn-sass)
-
-# HTML
-* [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
-* [CURSO DE HTML BÁSICO](https://www.devmedia.com.br/curso/curso-de-html-basico/371)
-* [Curso completo de HTML 5](https://jornadadodev.com.br/cursos/curso-completo-de-html-5?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=curso-completo-de-html-5)
-* [HTML/JS: tornando páginas web interativas](https://pt.khanacademy.org/computing/computer-programming/html-css-js)
-* [Curso de HTML5](https://www.cursoemvideo.com/course/curso-de-html5/)
-
-# Banco de Dados
-* [Introdução a SQL: Consulta e gerenciamento de dados
-](https://pt.khanacademy.org/computing/computer-programming/sql)
-* [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-* [Modelagem de Dados](https://www.ev.org.br/curso/informatica/banco-de-dados/modelagem-de-dados?return=/cursos/informatica/banco-de-dados)
+# MachineLearning
+* [Machine Learning Fundamentals](https://www.codecademy.com/pro/intensive/machine-learning-fundamentals)
+* [Introduction to Machine Learning](https://www.datacamp.com/courses/introduction-to-machine-learning-with-r)
+* [Machine Learning Toolbox](https://www.datacamp.com/courses/machine-learning-toolbox)
 
 # IA
 * [Introduction to Artificial Intelligence (AI)](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+
+# Deep Learning 
+* [CURSO DEEP LEARNING DO ZERO GRÁTIS! EXPLICAÇÕES](https://www.youtube.com/watch?v=tFoCI8EYqQY&list=PLxWEfWCujM7Y3Xf1bAxpICRlw2jt1a4S7)
+* [Deep Learning in Python](https://t.co/QnS9cPeNLt)
 
 # R
 * [Introduction to Network Analysis with R](https://www.jessesadler.com/post/network-analysis-with-r/)
@@ -99,27 +124,19 @@ NDG Linux Essentials](https://www.netacad.com/campaign/linux-essentials3)
 * [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
 * [Intermediate R - Practice](https://www.datacamp.com/courses/intermediate-r-practice)
 
-# Git e GitHub 
-* [Curso Git e Github](https://www.schoolofnet.com/curso-git-e-github/)
-* [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
-* [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-* [Resources to learn Git](https://try.github.io/)
-* [Iniciando no Git - Parte 1](https://tableless.com.br/iniciando-no-git-parte-1/)
-* [Iniciando no Git - Parte 2](https://tableless.com.br/iniciando-no-git-parte-2/)
+# Agile
+* [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto)
+* [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software)
 
-# Logica de Programacao
-* [Lógica de Programação](https://www.schoolofnet.com/curso-logica-de-programacao/)
-* [Curso de Algoritmo](http://www.cursoemvideo.com/course/curso-de-algoritmos/)
-* [Curso 100% online e gratuito de Lógica de Programação do SENAI.](http://www.cbsi.net.br/2017/08/curso-100-online-e-gratuito-de-logica-de-programacao-do-SENAI.html)
-* [MC102 - Algoritmos e Programação de Computadores](http://www.ic.unicamp.br/~mc102/)
-
-# Algoritmos
-* [Mini-curso de Algoritmos - Aula 1](https://youtu.be/DftxnGvyZLA)
+# PodCast
+* [PodProgramar](https://podprogramar.com.br/)
+* [Hipsters Ponto Tech ](https://hipsters.tech/)
+* [DevNaEstrada](https://devnaestrada.com.br/)
 
 # Ingles
 * [ONLINE ENGLISH COURSES - THAT WILL MAKE A DIFFERENCE IN YOUR LIFE](http://www.sedacollegeonline.com)
 * [Curso gratuito de Inglês da Kultivi](https://www.kultivi.com/)
 
-# Deep Learning 
-* [CURSO DEEP LEARNING DO ZERO GRÁTIS! EXPLICAÇÕES](https://www.youtube.com/watch?v=tFoCI8EYqQY&list=PLxWEfWCujM7Y3Xf1bAxpICRlw2jt1a4S7)
-* [Deep Learning in Python](https://t.co/QnS9cPeNLt)
+# Diversos
+* [Trilha de estudos com cursos gratuitos para aprender programação do zero](https://medium.com/trainingcenter/trilha-de-estudos-com-cursos-gratuitos-para-aprender-programa%C3%A7%C3%A3o-do-zero-2758f3d0190)
+* [BrasilMaisTI - Lista de cursos](http://www.brasilmaisti.com.br/index.php/pt-br/cursos-online/dashboard-cursos/45-lingua-inglesa/preview)
