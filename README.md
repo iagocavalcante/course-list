@@ -56,6 +56,9 @@ List of links of the multiple areas from developer career (by [@dii_lua](https:/
 * [Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 * [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 * [Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
 
 # PHP
 * [PHP do Jeito Certo](http://br.phptherightway.com/)
